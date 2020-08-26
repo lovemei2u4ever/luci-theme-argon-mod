@@ -15,6 +15,8 @@
 [![Issue Welcome][5]][6]
 [![Release Version][7]][8]
 [![Release Count][9]][8]
+
+
 A new Luci theme for LEDE/OpenWRT  
 Argon is a clean HTML5 theme for LuCI. It is based on luci-theme-material and Argon Template  
 
